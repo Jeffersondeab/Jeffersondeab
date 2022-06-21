@@ -1,7 +1,7 @@
 
  
-- 🔭 hoje trabalho com Front-end
-- 🌱 Estudando JavaScript
+- 🔭 I'm a Front-end developer
+- 🌱 I’m currently learning JavaScript
 
 
 <div style="display: inline_block"> 
