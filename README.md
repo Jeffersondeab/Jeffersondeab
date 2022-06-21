@@ -4,9 +4,9 @@
 - 🌱 Estudando JavaScript
 
 
-<div style="display: inline_block" align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeffersondeab&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffersondeab&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+<div style="display: inline_block"> 
+  <img style="flex-wrap:nowwrap" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeffersondeab&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" style="flex-wrap:nowwrap" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffersondeab&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   <a/>
     
-  <a href="www.linkedin.com/in/jefferson-barcellos" target="_blank"> 
+  <a href="www.linkedin.com/in/jefferson-barcellos-7714b21b5" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a/>
    
