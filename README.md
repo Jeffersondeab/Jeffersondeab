@@ -1,6 +1,6 @@
 
  
-- 🔭 I'm a Front-end developer
+- 🔭 Working with Front-end
 - 🌱 I’m currently learning JavaScript
 
 
